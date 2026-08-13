@@ -10,6 +10,8 @@ let response = null; // typeof return the type object of null
 let income;
 let answer = true;
 
+console.log(5+6)
+
 console.table([typeof age,typeof name,typeof value,typeof response,typeof income,typeof answer])
 
 console.log(typeof null);
